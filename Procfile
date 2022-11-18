@@ -1,0 +1,1 @@
+web: gunicorn Sikika.wsgi --log-file -
